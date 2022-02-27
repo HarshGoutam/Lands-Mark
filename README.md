@@ -21,5 +21,5 @@ An application to share and showcase your favourite landscapes
 ![Simulator Screen Shot - Apple Watch Series 7 - 45mm - 2022-02-27 at 11 08 32](https://user-images.githubusercontent.com/87484626/155870306-96da5ae0-9c49-4117-ae02-43d06e4ded8c.png)
 
 ![Simulator Screen Shot - Apple Watch Series 7 - 45mm - 2022-02-27 at 11 08 35](https://user-images.githubusercontent.com/87484626/155870309-a2a9acca-e2fe-4b73-aad3-480feff4088a.png)
-## Credit
+## Credits:-
 Apple developer swiftUI tutorial
