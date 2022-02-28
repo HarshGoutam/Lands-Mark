@@ -1,5 +1,8 @@
 # Lands-Mark
 An application to share and showcase your favourite landscapes
+## MacOS
+![Screenshot 2022-02-28 at 11 28 55 AM](https://user-images.githubusercontent.com/87484626/155947527-ce8b16b5-7266-4e72-80d0-f871d3f6e8c2.png)
+
 ## iOS
 
 ![Simulator Screen Shot - iPhone 13 - 2022-02-27 at 11 09 26](https://user-images.githubusercontent.com/87484626/155870349-48a92160-1e7d-44b2-aa79-71ab55722b03.png)
@@ -22,8 +25,6 @@ An application to share and showcase your favourite landscapes
 
 ![Simulator Screen Shot - Apple Watch Series 7 - 45mm - 2022-02-27 at 11 08 35](https://user-images.githubusercontent.com/87484626/155870309-a2a9acca-e2fe-4b73-aad3-480feff4088a.png)
 
-## MacOS
-![Screenshot 2022-02-28 at 11 28 55 AM](https://user-images.githubusercontent.com/87484626/155947527-ce8b16b5-7266-4e72-80d0-f871d3f6e8c2.png)
 
 ## Credits:-
 Apple developer swiftUI tutorial
