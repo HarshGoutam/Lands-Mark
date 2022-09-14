@@ -17,7 +17,7 @@ An application to share and showcase your favourite landscapes
 ![Simulator Screen Shot - iPhone 13 - 2022-02-27 at 11 09 35](https://user-images.githubusercontent.com/87484626/155870354-a0d3374d-4c86-46f0-b6ec-5560151dab37.png)
 
 
-## watchOS
+## WatchOS
 ![Simulator Screen Shot - Apple Watch Series 7 - 45mm - 2022-02-27 at 11 08 28](https://user-images.githubusercontent.com/87484626/155870300-38990caf-8847-48d0-8461-7120555c8ffc.png)
 
 
